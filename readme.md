@@ -52,12 +52,12 @@ If your server uses `uvicorn`, you can start it with:
 ---
 
 ## 📁 Project Structure
-
+```shell
 gomoku-server/
 ├── main.py
 ├── requirements.txt
 └── README.mdx`
-
+```
 ---
 
 ## 🤝 Contributing
