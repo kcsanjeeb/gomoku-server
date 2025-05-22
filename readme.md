@@ -1,5 +1,3 @@
-import { CodeBlock } from '@components/CodeBlock' // Optional: Replace with your actual code block component if using one
-
 # Gomoku Server
 
 This is the backend server for the **Gomoku** game, built using Python and WebSockets.
